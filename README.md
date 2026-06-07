@@ -9,7 +9,7 @@ Meu nome é Ane Paixão e sou estudante de **Ciência da Computação** e atuo n
 Atualmente atuo no desenvolvimento de aplicações web e mobile, pesquisa acadêmica em Inteligência Artificial e construção de soluções voltadas para automação e resolução de problemas reais.
 
 Minha experiencia prática envolve:
-* Desenvolvimento de aplicações utilizando JavaScript, TypeScript, Python e C;
+* Desenvolvimento de aplicações utilizando JavaScript, TypeScript, Python;
 * Desenvolvimento mobile com React Native;
 * Integração de sistemas por meio de APIs REST;
 * Automação de processos e tratamento de dados;
@@ -89,4 +89,4 @@ Entre as atividades desenvolvidas estão:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneapaixao/)
 
-📧 **E-mail:** anepaixaodev@gmail.com
+📧 **E-mail:** anepaixao50@gmail.com
